@@ -1,18 +1,16 @@
 #include "main.h"
 /**
- * main - Alphaet count
+ * print_alphabet - Alphaet count
  *
  * Return: Always 0 (Success)
  */
 void print_alphabet(void)
 {
-	char i;
-	i = 'a';
+	int i;
 
-	while (i <= 'z')
+	for (i = 97; i <= 122; i++)
 	{
 		_putchar(i);
-		i++;
 	}
 	_putchar('\n');
 }
