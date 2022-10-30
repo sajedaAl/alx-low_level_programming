@@ -2,7 +2,7 @@
 
 /**
  * print_to_98 - prints all natural numbers from n to 98
- * @n: number 
+ * @n: number
  * Rruturn: num from n to 98
  */
 void print_to_98(int n)
