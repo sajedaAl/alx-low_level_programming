@@ -2,6 +2,8 @@
 /**
  * _abs - computes the absolute value of an integer
  *
+ *@i: input number as an integer.
+ *
  * Return: Alwayes 0 (Ssuccess)
  */
 int _abs(int i)
