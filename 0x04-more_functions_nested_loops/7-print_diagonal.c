@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_line - print straight line n times.
+ * print_diagonal- print straight line n times.
  * @n: the number of times
  * Return: no return.
  */
-void print_line(int n)
+void print_diagonal(int n)
 {
 	int i;
 
